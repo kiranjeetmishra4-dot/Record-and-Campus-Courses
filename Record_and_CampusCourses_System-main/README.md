@@ -432,9 +432,9 @@ This project was developed as part of Java Programming coursework, demonstrating
 
 ---
 
-**Author**: Aaryan Dwivedi<br> 
-**Reg. No.**: 24BCE11250<br>
+**Author**: Kiranjeet Mishra<br> 
+**Reg. No.**: 24BAI10127<br>
 **Course**: (CSE2006) Programming in Java
 **Institution**: Vellore Institute of Technology, Bhopal  
-**Date**: 2025-09-24  
+**Date**: 2026-03-30  
 **Version**: 1.01
